@@ -79,6 +79,7 @@ body {
   border-color: var(--cadet-grey);
 }
 
+/* Button Styling */
 .btn {
   background-color: var(--melon);
   color: #fff;
