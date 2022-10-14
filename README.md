@@ -18,7 +18,7 @@ From this mini-project, I was able to gain an understanding of how to essentiall
 
 ## Deployed App
 
-You can find the deployed app by clicking [HERE]()
+You can find the deployed app by clicking [HERE](https://ayaneey.github.io/Project-Steps/)
 
 ## GitHub
 
